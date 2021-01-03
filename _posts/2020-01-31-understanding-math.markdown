@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Coming Soon..."
+title: "Understanding Math"
 date: 2020-01-31 15:05:15 +0800
 ---
 
