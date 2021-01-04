@@ -18,9 +18,9 @@ minimal_mistakes_skin: "dark" # "default","air", "aqua", "contrast", "dark", "di
 locale: "en-US"
 title: "Cur Semper Rogas"
 title_separator: "-"
-subtitle: "Direction over Destination" # site tagline that appears below site title in masthead
+subtitle: "Ceaseless pursuit of Why's .. and Why Not's" # site tagline that appears below site title in masthead
 name: "Wereboss"
-description: "Direction over Destination"
+description: "Ceaseless pursuit of Why's .. and Why Not's"
 url: "https://wereboss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
