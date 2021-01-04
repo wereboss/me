@@ -19,7 +19,7 @@ locale: "en-US"
 title: "Mobilis in Mobili"
 title_separator: "-"
 subtitle: "A Personal Blog" # site tagline that appears below site title in masthead
-name: "Srinath Menon"
+name: "Wereboss"
 description: "A Personal Blog"
 url: "https://wereboss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
@@ -92,9 +92,9 @@ analytics:
 
 # Site Author
 author:
-  name: "Srinath Menon"
+  name: "Wereboss"
   avatar: "/assets/images/SriProfile_face_72.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio: "A Design Enthusiast & Lifelong Learner"
+  bio: "An ever digging mole, desperate to get to the bottom of things"
   location: "Singapore"
   email: "me@srinathmenon.com"
   links:
