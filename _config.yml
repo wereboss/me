@@ -16,17 +16,17 @@ minimal_mistakes_skin: "dark" # "default","air", "aqua", "contrast", "dark", "di
 
 # Site Settings
 locale: "en-US"
-title: "Mobilis in Mobili"
+title: "Cognoscere Ad Infinitum"
 title_separator: "-"
-subtitle: "A Personal Blog" # site tagline that appears below site title in masthead
+subtitle: "Direction over Destination" # site tagline that appears below site title in masthead
 name: "Wereboss"
-description: "A Personal Blog"
+description: "Direction over Destination"
 url: "https://wereboss.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser: /assets/images/SMLogo_teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: /assets/images/SMLogo88.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title: "Mobilis in Mobili" # overrides the website title displayed in the masthead, use " " for no title
+masthead_title: "Direction over Destination" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 comments:
@@ -93,7 +93,7 @@ analytics:
 # Site Author
 author:
   name: "Wereboss"
-  avatar: "/assets/images/SriProfile_face_72.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar: "/assets/images/wereboss144.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio: "An ever digging mole, desperate to get to the bottom of things"
   location: "Singapore"
   email: "me@srinathmenon.com"
