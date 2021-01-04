@@ -1,5 +1,5 @@
 ---
-permalink: /me/about/
+permalink: /about/
 title: "About"
 excerpt: "A Personal Exploration Space"
 ---
