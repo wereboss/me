@@ -1,0 +1,24 @@
+---
+title: "Why Math"
+excerpt: " .. and was it inevitable?"
+header:
+  overlay_image: /assets/images/Spiral-staircase-rect_sm2.png
+  overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
+  #   image: /assets/images/Spiral-staircase-rect_sm2.png
+  caption: "Photo credit: [Brodie Vissers](https://burst.shopify.com/@thenomadbrodie?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Spiral+Staircase+From+Above+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) via [Burst](https://burst.shopify.com/background?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Spiral+Staircase+From+Above+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) "
+date: 2021-01-21 15:05:15 +0800
+---
+
+I was not particularly good at Math, but I remember enjoying it in my formative years. One reason could be that I used to enjoy rhymes & poems and the multiplication tables seemed to be as more songs, or something which you rattle away, keeping rhythm, learning by _**rote**_.
+
+As it with any aspect of life, my perspective changed through the years. From learning tables "by heart" , from learning algebraic fomulas, solving theorms, to complicated rules in calculus, in statistics.
+But once I was out of the " Learning Math to get marks" phase, it suddenly started getting interesting. Learning the history and anedotes behind various strides in Math,
+
+<div class="notice--primary">
+<font size="4">Q</font><font size="2"> 1.</font>: Why did humans get Math?<br/>
+<font size="4">Q</font><font size="2"> 2.</font>: Do animals process math the same as we do?<br/>
+<font size="4">Q</font><font size="2"> 3.</font>: Could thought/technical prowess improve without math?<br/>
+<font size="4">Q</font><font size="2"> 4.</font>: Is math an eventuality for evolution?<br/>
+</div>
+
+Above were the tinders which started me on this journey. As is with any journey, it helps to get the initial bearing
