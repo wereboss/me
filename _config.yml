@@ -24,7 +24,7 @@ description: "A gratifying pursuit of Why's and Why Not's"
 url: "https://me.srinathmenon.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: # the subpath of your site, e.g. "/blog"
 repository: # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser: /assets/images/SMLogo_teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser: /assets/images/WS_teaser.png # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo: /assets/images/WSLogo88.png # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title: "Werefore" # overrides the website title displayed in the masthead, use " " for no title - old Cognoscere Ad Infinitum
 breadcrumbs: true # true, false (default)
@@ -257,6 +257,9 @@ compress_html:
     envs: development
 
 collections:
+  scrawls:
+    output: true
+    permalink: /:collection/:path/
   # digital_marketing:
   #   output: true
   #   permalink: /:collection/:path/
@@ -281,22 +284,16 @@ defaults:
   # _digital_marketing
   - scope:
       path: ""
-      type: digital_marketing
+      type: scrawls
     values:
       layout: single
       author_profile: true
       share: true
+      read_time: true
+      comments: true
   - scope:
       path: "_pages"
       type: pages
     values:
       layout: single
       author_profile: true
-  # _data_sciences
-  - scope:
-      path: ""
-      type: data_sciences
-    values:
-      layout: single
-      author_profile: true
-      share: true

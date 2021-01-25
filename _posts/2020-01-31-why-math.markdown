@@ -1,24 +1,38 @@
 ---
 title: "Why Math"
 excerpt: " .. and was it inevitable?"
+layout: single
 header:
   overlay_image: /assets/images/Spiral-staircase-rect_sm2.png
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   #   image: /assets/images/Spiral-staircase-rect_sm2.png
   caption: "Photo credit: [Brodie Vissers](https://burst.shopify.com/@thenomadbrodie?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Spiral+Staircase+From+Above+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) via [Burst](https://burst.shopify.com/background?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Spiral+Staircase+From+Above+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) "
+  teaser: /assets/images/spiral-staircase-from-above_sm
 date: 2021-01-21 15:05:15 +0800
+toc: true
+toc_label: "Why Math"
+toc_icon: "calculator"
 ---
 
-I was not particularly good at Math, but I remember enjoying it in my formative years. One reason could be that I used to enjoy rhymes & poems and the multiplication tables seemed to be as more songs, or something which you rattle away, keeping rhythm, learning by _**rote**_.
+I was not particularly good at Math, but I remember enjoying it in my formative years. One reason could be that I used to enjoy rhymes & poems and the multiplication tables just seemed to be more or less similar. Something which you rattle away, keeping rhythm, learning by _**rote**_.
 
-As it with any aspect of life, my perspective changed through the years. From learning tables "by heart" , from learning algebraic fomulas, solving theorms, to complicated rules in calculus, in statistics.
-But once I was out of the " Learning Math to get marks" phase, it suddenly started getting interesting. Learning the history and anedotes behind various strides in Math,
+My perspective changed through the years, as it with any aspect of life. From learning tables "by heart" , from learning algebraic fomulas, solving theorms, to complicated rules in calculus, to proportions & statistics. But once I was out of the "learning as a means to get marks" phase, it suddenly started getting interesting. Learning the history and anedotes behind various strides in Math, realising the birth of concepts and their consequence, sparked a lost curiosity into the nature of things.
+
+In most cases, when possessed with an idea, I gladly dive into the deep oceans of Google and Wikipedia to satisfy my urges. But this time I felt, its best to start with specific questions, feeding a few tinders to the spark (so to speak)
 
 <div class="notice--primary">
-<font size="4">Q</font><font size="2"> 1.</font>: Why did humans get Math?<br/>
-<font size="4">Q</font><font size="2"> 2.</font>: Do animals process math the same as we do?<br/>
-<font size="4">Q</font><font size="2"> 3.</font>: Could thought/technical prowess improve without math?<br/>
-<font size="4">Q</font><font size="2"> 4.</font>: Is math an eventuality for evolution?<br/>
+<font size="6">Q</font><font size="4"> 1.</font>: Why did we get Math?<br/>
+<font size="6">Q</font><font size="4"> 2.</font>: Do animals process math the same as we do?<br/>
+<font size="6">Q</font><font size="4"> 3.</font>: Could thought/technical prowess improve without math?<br/>
+<font size="6">Q</font><font size="4"> 4.</font>: Is math an eventuality for evolution?<br/>
 </div>
 
-Above were the tinders which started me on this journey. As is with any journey, it helps to get the initial bearing
+### Q 1. <font size="8">W</font>hy did we get Math?
+
+I loved Marcus Du Satoy's "Story of Maths"
+
+### Q 2. <font size="8">D</font>o animals process math the same as we do?
+
+### Q 3. <font size="8">C</font>ould thought/technical prowess improve without math?
+
+### Q 4. <font size="8">I</font>s math an eventuality for evolution?

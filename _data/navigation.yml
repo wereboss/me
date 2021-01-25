@@ -1,6 +1,8 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Scrawlings"
+    url: /scrawls/
   # - title: "Digital Marketing"
   #   url: /digital_marketing/
   # - title: "Data Sciences"
