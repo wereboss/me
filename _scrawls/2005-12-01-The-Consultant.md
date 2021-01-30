@@ -7,7 +7,7 @@ header:
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
   caption: "Photo credit: [Nicole De Khors](https://burst.shopify.com/@ndekhors?utm_campaign=photo_credit&amp;utm_content=Picture+of+Aged+Couple+Hands+%E2%80%94+Free+Stock+Photo&amp;utm_medium=referral&amp;utm_source=credit) via [Burst](https://burst.shopify.com/couple?utm_campaign=photo_credit&amp;utm_content=Picture+of+Aged+Couple+Hands+%E2%80%94+Free+Stock+Photo&amp;utm_medium=referral&amp;utm_source=credit) "
   teaser: /assets/images/sparking-rocks-glasses-sm.png
-date: 2005-12-13 15:05:15 +0800
+date: 2005-12-01 15:05:15 +0800
 toc: true
 toc_label: "The Consultant"
 toc_icon: "cocktail"
