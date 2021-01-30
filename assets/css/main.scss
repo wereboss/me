@@ -15,10 +15,15 @@ $monospace: "Source Code Pro", Monaco, Consolas, "Lucida Console", monospace;
 
 .sidebar .author__name {
   font-family: $serif;
-  font-size: $type-size-4;
+  font-size: $type-size-3;
 }
 
 .sidebar p {
   font-family: $serif;
   font-size: $type-size-6;
+}
+
+.page__content {
+  font-family: $global-font-family;
+  font-size: $type-size-3;
 }
