@@ -14,6 +14,8 @@ toc_label: "Why Math"
 toc_icon: "calculator"
 ---
 
+# Why?
+
 I was not particularly good at Math, but I remember enjoying it in my formative years. One reason could be that I used to enjoy rhymes & poems and the multiplication tables just seemed to be more or less similar. Something which you rattle away, keeping rhythm, learning by _**rote**_.
 
 My perspective changed through the years, as it with any aspect of life. From learning tables "by heart" , from learning algebraic fomulas, solving theorms, to complicated rules in calculus, to proportions & statistics. But once I was out of the "learning as a means to get marks" phase, it suddenly started getting interesting. Learning the history and anedotes behind various strides in Math, realising the birth of concepts and their consequence, sparked a lost curiosity into the nature of things.
