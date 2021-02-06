@@ -5,7 +5,7 @@ excerpt: ".. they truly are !!"
 header:
   overlay_image: /assets/images/mellow-mallard-rect.png
   overlay_filter: 0.7 # same as adding an opacity of 0.5 to a black background
-  caption: "Photo credit: [Nicole De Khors](https://burst.shopify.com/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Mellow+Mallard+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) via [Burst](https://burst.shopify.com/pond?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Mellow+Mallard+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) "
+  caption: "Photo credit: [Matthew Henry](https://burst.shopify.com/@matthew_henry?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Mellow+Mallard+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) via [Burst](https://burst.shopify.com/api-nature?utm_campaign=photo_credit&amp;utm_content=Free+Stock+Photo+of+Mellow+Mallard+%E2%80%94+HD+Images&amp;utm_medium=referral&amp;utm_source=credit) "
   teaser: /assets/images/mellow-mallard-sm.png
 date: 2006-02-06 15:05:15 +0800
 toc: true
