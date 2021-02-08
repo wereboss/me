@@ -26,7 +26,7 @@ Why Math?
 
 In most cases, when possessed with an idea, I gladly dive into the deep oceans of Google and Wikipedia to satisfy my urges. But this time I felt, its best to check my bearings, align my direction, perhaps start with specific questions:
 
-<div class="notice--primary">
+<div class="notice--info">
 <font size="6">Q</font><font size="4"> 1.</font>: Why did we get Math?<br/>
 <font size="6">Q</font><font size="4"> 2.</font>: Do animals process math the same as we do?<br/>
 <font size="6">Q</font><font size="4"> 3.</font>: Could thought/technical prowess improve without math?<br/>
@@ -36,7 +36,62 @@ In most cases, when possessed with an idea, I gladly dive into the deep oceans o
 ### Q 1. <font size="8">W</font>hy did we get Math?
 
 I loved Marcus Du Satoy's "Story of Maths". It showed how usage of Math arose from the need to measure fields for taxation purposes, as with early Egyptians. It also seems that long before that our ancestors from the mid palolithic age marked slits in bones (vis Ishango bone) as a means of counting. So our need for counting obviously predates our need for measuring stuff. But why count?..  
-If I'm a hunter/gatherer, would I need to count my kills? or even my kids? its difficult to imagine their situation. Would it be a means to keep track of things?  "we did not have enough food yesterday with one deer so I should kill two today.... " 
+
+If I'm a hunter/gatherer, would I need to count my kills? or even my kids? Would it be a means to keep track of things? Its difficult to imagine their situation, working without a notion of unity, duality, singular or plural.  
+<div class="notice--primary">
+
+<font color="teal">
+[hunting]"We did not have enough food yesterday with one deer so I should kill 'more' today.... ".
+</font><br>   
+<font color="teal">
+[reaches back to the cave]"Honey, I got 'more' deer, that should be enough".   
+</font><br>   
+<font color="olive">
+"Dear, before you leave, remember we have dinner with Ugabooga family today".   
+</font><br>   
+<font color="teal">
+"Ok Honey, I'll bring 'more' deer"  
+</font><br>   
+<font color="olive">
+"But Dear, 'more' is only enough for us. You need to bring 'more'.. 'more'"
+</font><br>   
+<font color="teal">
+"What do you mean 'more-more'???""
+</font><br>   
+<font color="olive">
+[points to the skulls of the last deers on the cave floor] "That was 'more'" [pats the empty space next to it] "That's 'more-more'"
+</font><br>   
+<font color="teal">
+"Aah.."[starts etching small groovers at the base of his axe-bone] "... deer ... more-deer .... more-more-deer"<br>  
+"Ok Dear, i'll get more more deer"
+</font><br>
+[few months later]<br>  
+<font color="teal">
+"Boy, Get me moh-moh sticks"
+</font><br>
+<font color="gray">
+"Mother says we dont have moh-moh sticks, we only have moh sticks"
+</font><br>
+<font color="teal">
+[sigh]"FINE !!"
+</font><br>
+</div>
+
+Soon, as the need for counting increased, 'moh','moh-moh' would have evolved to 'two','three' and more symbols to designate larger numbers.
+But there would have been a need for "comparison" as well. 'moh' was inherently smaller than 'moh-moh'. But if there 'moh' set of 'moh' then they are larger than 'moh-moh'. And the need to 'Equate' would have arisen from the need to match deers to diners. With enough practice, our humble caveman would have noticed patterns, how two and three became enough for five. How the same patterns applied to deers, sticks, so long you count them as 'individually'.  
+
+Now let's fast-forward by many thousands of years to the coastlines of Nile, flourishing civilisation, lush fields, bustling city all powered by the fertile banks of Nile. A municipal tax collector is on his way to collect levy from 2 neighboring farmers. Both farmers managing a usual yield from their farms, managing toiling workers/cattle, meticulously harvesting and storing grains, to be sold at the market after the season. With one minor difference, the 2nd farmer is smaller. 
+
+
+<div class="notice--primary">
+<font color="teal">
+[knowing] Tax Collector:[egyptian - egyptian]"... Joe..."[egyptian-egyptian]"... tax payment .. "[egyptian-egyptian]"5 talents"
+</font><br>   
+<font color="olive">
+[knowing] Farmer Joe:[egyptian-egyptian]"...harvest.."[egyptian-egyptian]"...worker payments..."[egyptian-egyptian]""
+</font><br>   
+
+</div>
 
 
 ### Q 2. <font size="8">D</font>o animals process math the same as we do?
