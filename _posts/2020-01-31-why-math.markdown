@@ -16,11 +16,15 @@ toc_icon: "calculator"
 
 # Why?
 
+Why did I start down this road? 
 I was not particularly good at Math, but I remember enjoying it in my formative years. One reason could be that I used to enjoy rhymes & poems and the multiplication tables just seemed to be more or less similar. Something which you rattle away, keeping rhythm, learning by _**rote**_.
 
-My perspective changed through the years, as it with any aspect of life. From learning tables "by heart" , from learning algebraic fomulas, solving theorms, to complicated rules in calculus, to proportions & statistics. But once I was out of the "learning as a means to get marks" phase, it suddenly started getting interesting. Learning the history and anedotes behind various strides in Math, realising the birth of concepts and their consequence, sparked a lost curiosity into the nature of things.
+My perspective changed through the years, as it with any aspect of life. From learning tables "by heart" , from learning algebraic fomulas, solving theorms, to complicated rules in calculus, to proportions & statistics. But once I was out of the "learning as a means to get marks" phase, it suddenly started getting interesting...   
+Learning the history and anedotes behind various strides in Math, realising the birth of concepts and their consequence, sparked a lost curiosity into the nature of things. Starting enjoying books by Simon Singh, started following "Numberphile", dug up multiple math documentaries, all the while relishing someone's fun journey through challenges to epiphanies, until I glimpsed upon a juicy one myself...
 
-In most cases, when possessed with an idea, I gladly dive into the deep oceans of Google and Wikipedia to satisfy my urges. But this time I felt, its best to start with specific questions, feeding a few tinders to the spark (so to speak)
+Why Math?
+
+In most cases, when possessed with an idea, I gladly dive into the deep oceans of Google and Wikipedia to satisfy my urges. But this time I felt, its best to check my bearings, align my direction, perhaps start with specific questions:
 
 <div class="notice--primary">
 <font size="6">Q</font><font size="4"> 1.</font>: Why did we get Math?<br/>
@@ -31,7 +35,9 @@ In most cases, when possessed with an idea, I gladly dive into the deep oceans o
 
 ### Q 1. <font size="8">W</font>hy did we get Math?
 
-I loved Marcus Du Satoy's "Story of Maths"
+I loved Marcus Du Satoy's "Story of Maths". It showed how usage of Math arose from the need to measure fields for taxation purposes, as with early Egyptians. It also seems that long before that our ancestors from the mid palolithic age marked slits in bones (vis Ishango bone) as a means of counting. So our need for counting obviously predates our need for measuring stuff. But why count?..  
+If I'm a hunter/gatherer, would I need to count my kills? or even my kids? its difficult to imagine their situation. Would it be a means to keep track of things?  "we did not have enough food yesterday with one deer so I should kill two today.... " 
+
 
 ### Q 2. <font size="8">D</font>o animals process math the same as we do?
 
@@ -40,3 +46,5 @@ I loved Marcus Du Satoy's "Story of Maths"
 what actually drove the progress? Was it necessisity or curiosity or simply pleasure?
 
 ### Q 4. <font size="8">I</font>s math an eventuality for evolution?
+
+sample changes
