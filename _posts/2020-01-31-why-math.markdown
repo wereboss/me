@@ -80,15 +80,33 @@ If I'm a hunter/gatherer, would I need to count my kills? or even my kids? Would
 Soon, as the need for counting increased, 'moh','moh-moh' would have evolved to 'two','three' and more symbols to designate larger numbers.
 But there would have been a need for "comparison" as well. 'moh' was inherently smaller than 'moh-moh'. But if there 'moh' set of 'moh' then they are larger than 'moh-moh'. And the need to 'Equate' would have arisen from the need to match deers to diners. With enough practice, our humble caveman would have noticed patterns, how two and three became enough for five. How the same patterns applied to deers, sticks, so long you count them as 'individually'.  
 
-Now let's fast-forward by many thousands of years to the coastlines of Nile, flourishing civilisation, lush fields, bustling city all powered by the fertile banks of Nile. A municipal tax collector is on his way to collect levy from 2 neighboring farmers. Both farmers managing a usual yield from their farms, managing toiling workers/cattle, meticulously harvesting and storing grains, to be sold at the market after the season. With one minor difference, the 2nd farmer is smaller. 
+Now let's fast-forward by many thousands of years to the coastlines of Nile, flourishing civilisation, lush fields, bustling city all powered by the fertile banks of Nile. A municipal tax collector is on his way to collect levy from 2 neighboring farmers. Both farmers managing a usual yield from their farms, managing toiling workers/cattle, meticulously harvesting and storing grains, to be sold at the market after the season. With one minor difference, the 2nd farm is smaller. 
 
 
 <div class="notice--primary">
 <font color="teal">
-[knowing] Tax Collector:[egyptian - egyptian]"... Joe..."[egyptian-egyptian]"... tax payment .. "[egyptian-egyptian]"5 talents"
+[knocking]"Salutations Joe. I'm here to collect your levy of 2 talents."
 </font><br>   
 <font color="olive">
-[knowing] Farmer Joe:[egyptian-egyptian]"...harvest.."[egyptian-egyptian]"...worker payments..."[egyptian-egyptian]""
+"Salutations Officer. Its not easy this time to pay the levy. This whole region has gotten only medium yield and I need to take care of my family, cattle, workers. I hardly make any profit"
+</font><br>   
+<font color="teal">
+"This is becoming a habit Joe. You should be more like Jack, who always pays up promptly. You default on the levy one more time and I would have to take away the irrigation canal to your field"
+</font><br>   
+<font color="olive">
+"But Officer, Jack's farm extends from lane all the way to the canal. [gestures with his hands outstreched] but my land is only at the corner of the settlement border. Surely you see Jack's stack of bushels is much higher than my own. He can pay the levy while able to feed his family"
+</font><br>   
+<font color="teal">
+"He also needs to pay more workers"
+</font><br>   
+<font color="olive">
+"his farm also takes a lot more water. You should increase his levy and reduce mine"
+</font><br>   
+<font color="teal">
+"Hmm .. i have 5 houses to cover today [holds up his right plan with outstreched fingers] so I need to take back 10 talents[holds both his palms fingers outstreched]. I cannot go back to the pharoh with less talents. Joe & Jack have 2 farms in total, so I need to get 4 talents. Any ideas, Scribe?" 
+</font><br>   
+<font color="grey">
+"Sire, Perhaps we can count the number of steps we need to walk end to end in both farms. The farm with the more steps, should mean more ground, taking more water, hence more levy"
 </font><br>   
 
 </div>
