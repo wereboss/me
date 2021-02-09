@@ -103,7 +103,7 @@ Now let's fast-forward by many thousands of years to the coastlines of Nile, flo
 "his farm also takes a lot more water. You should increase his levy and reduce mine"
 </font><br>   
 <font color="teal">
-"Hmm .. i have 5 houses to cover today [holds up his right plan with outstreched fingers] so I need to take back 10 talents[holds both his palms fingers outstreched]. I cannot go back to the pharoh with less talents. Joe & Jack have 2 farms in total, so I need to get 4 talents. Any ideas, Scribe?" 
+"Hmm .. I have 5 houses to cover today [holds up his right hand with outstreched fingers] so I need to take back 10 talents[holds both his palms fingers outstreched]. I cannot go back to the pharoh with less talents. Joe & Jack have 2 farms in total, so I need to get 4 talents. Any ideas, Scribe?" 
 </font><br>   
 <font color="grey">
 "Sire, Perhaps we can count the number of steps we need to walk end to end in both farms. The farm with the more steps, should mean more ground, taking more water, hence more levy"
@@ -111,8 +111,20 @@ Now let's fast-forward by many thousands of years to the coastlines of Nile, flo
 
 </div>
 
+Counting steps, or covering longer distance with smaller distance (smaller units), would have been truly a leap of genius. We started 'measuring' attributes of objects beyond just tangible objects. Measurement of physical field area evolved from 'length' to 'area' where the field was comprised of smaller fields of unit length. A unit increase in length meant an increase of smaller areas by the unit 'breadth'.   
+
+>meter = Late 18th century: from French mètre, from Greek metron ‘measure’.  
+
+>acre = Old English æcer (denoting the amount of land a yoke of oxen could plow in a day), of Germanic origin.  
+
+Some talented scribe would have started noticing patterns in adding the same breadth. He would have started noting down these repeated answers for the same breadth(to ease his calculation and to simplify measurement) perhaps giving rise to the first multiplication tables.  
+Similar problems to be solved in the local bakery (As Satoy wonderfully elucidates) in distributing bread to dissimilar number of patrons led to the notion of division, where the larger object progressively becomes smaller with each division.  
+
+So, arising from the need to solve practical problems, balancing and allocating resources, comparing situations, driven by rising complexities and need to simplify (get to answer in shorter time), lead to Math. 
 
 ### Q 2. <font size="8">D</font>o animals process math the same as we do?
+
+
 
 ### Q 3. <font size="8">C</font>ould thought/technical prowess improve without math?
 
