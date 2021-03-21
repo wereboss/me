@@ -80,7 +80,7 @@ If I'm a hunter/gatherer, would I need to count my kills? or even my kids? Would
 Soon, as the need for counting increased, 'moh','moh-moh' would have evolved to 'two','three' and more symbols to designate larger numbers.
 But there would have been a need for "comparison" as well. 'moh' was inherently smaller than 'moh-moh'. But if there 'moh' set of 'moh' then they are larger than 'moh-moh'. And the need to 'Equate' would have arisen from the need to match deers to diners. With enough practice, our humble caveman would have noticed patterns, how two and three became enough for five. How the same patterns applied to deers, sticks, so long you count them as 'individually'.  
 
-Now let's fast-forward by many thousands of years to the coastlines of Nile, flourishing civilisation, lush fields, bustling city all powered by the fertile banks of Nile. A municipal tax collector is on his way to collect levy from 2 neighboring farmers. Both farmers managing a usual yield from their farms, managing toiling workers/cattle, meticulously harvesting and storing grains, to be sold at the market after the season. With one minor difference, the 2nd farm is smaller. 
+Now let's fast-forward by many thousands of years to the coastlines of Nile, flourishing civilisation, lush fields, bustling city, all powered by the fertile banks of Nile. A municipal tax collector is on his way to collect levy from 2 neighboring farmers. Both farmers are managing a usual yield from their farms, managing toiling workers/cattle, meticulously harvesting and storing grain bushels, to be sold at the market. With one minor difference, the 2nd farm is smaller. 
 
 
 <div class="notice--primary">
@@ -117,10 +117,10 @@ Counting steps, or covering longer distance with smaller distance (smaller units
 
 >acre = Old English æcer (denoting the amount of land a yoke of oxen could plow in a day), of Germanic origin.  
 
-Some talented scribe would have started noticing patterns in adding the same breadth. He would have started noting down these repeated answers for the same breadth(to ease his calculation and to simplify measurement) perhaps giving rise to the first multiplication tables.  
-Similar problems to be solved in the local bakery (As Satoy wonderfully elucidates) in distributing bread to dissimilar number of patrons led to the notion of division, where the larger object progressively becomes smaller with each division.  
+Some talented scribe would have started noticing patterns in adding the same breadth over and over again. He would have started noting down these repeated answers for the same breadth (to ease his calculation and to simplify future measurement) perhaps giving rise to the first multiplication tables.  
+Similar problems to be solved in the local bakery (As Satoy wonderfully elucidates) in distributing bread to dissimilar number of patrons led to the notion of division, where the larger object progressively becomes smaller with each division, but its count increases.  
 
-So, arising from the need to solve practical problems, balancing and allocating resources, comparing situations, driven by rising complexities and need to simplify (get to answer in shorter time), lead to Math. 
+So, arising from the need to solve practical problems, balancing and allocating resources, comparing situations, driven by rising complexities and need to simplify (get to answer in shorter time), lead to a series of steps, patterns, rules and recepies, which eventually became Math. 
 
 ### Q 2. <font size="8">D</font>o animals process math the same as we do?
 
