@@ -24,7 +24,7 @@ Learning the history and anedotes behind various strides in Math, realising the 
 
 Why Math?
 
-In most cases, when possessed with an idea, I gladly dive into the deep oceans of Google and Wikipedia to satisfy my urges. But this time I felt, its best to check my bearings, align my direction, perhaps start with specific questions:
+In most cases, when possessed with an idea, I gladly dive into the deep oceans of Google and Wikipedia to satisfy my urges. But this time I felt, its best to check my bearings, align my direction, perhaps start with few specific questions:
 
 <div class="notice--info">
 <font size="6">Q</font><font size="4"> 1.</font>: Why did we get Math?<br/>
@@ -78,7 +78,7 @@ If I'm a hunter/gatherer, would I need to count my kills? or even my kids? Would
 </div>
 
 Soon, as the need for counting increased, 'moh','moh-moh' would have evolved to 'two','three' and more symbols to designate larger numbers.
-But there would have been a need for "comparison" as well. 'moh' was inherently smaller than 'moh-moh'. But if there 'moh' set of 'moh' then they are larger than 'moh-moh'. And the need to 'Equate' would have arisen from the need to match deers to diners. With enough practice, our humble caveman would have noticed patterns, how two and three became enough for five. How the same patterns applied to deers, sticks, so long you count them as 'individually'.  
+But there would have been a need for "comparison" as well. 'moh' was inherently smaller than 'moh-moh'. But if there 'moh' set of 'moh' then they are larger than 'moh-moh'. And the need to 'Equate' would have arisen from the need to match deers to diners. With enough practice, our humble caveman would have noticed patterns, how two and three became enough for five. How the same patterns applied to deers, sticks, so long you count them as 'individually'. The more generic the symbol, the more easier the application of pattern.    
 
 Now let's fast-forward by many thousands of years to the coastlines of Nile, flourishing civilisation, lush fields, bustling city, all powered by the fertile banks of Nile. A municipal tax collector is on his way to collect levy from 2 neighboring farmers. Both farmers are managing a usual yield from their farms, managing toiling workers/cattle, meticulously harvesting and storing grain bushels, to be sold at the market. With one minor difference, the 2nd farm is smaller. 
 
@@ -111,7 +111,7 @@ Now let's fast-forward by many thousands of years to the coastlines of Nile, flo
 
 </div>
 
-Counting steps, or covering longer distance with smaller distance (smaller units), would have been truly a leap of genius. We started 'measuring' attributes of objects beyond just tangible objects. Measurement of physical field area evolved from 'length' to 'area' where the field was comprised of smaller fields of unit length. A unit increase in length meant an increase of smaller areas by the unit 'breadth'.   
+Counting steps, or covering longer distance with smaller units (fitting generic patterns again), would have been truly a leap of genius. We started 'measuring' attributes of objects beyond just tangible objects. Measurement of physical field area evolved from 'length' to 'area' where the field was comprised of smaller fields of unit length. A unit increase in length meant an increase of smaller areas by the unit 'breadth'.   
 
 >meter = Late 18th century: from French mètre, from Greek metron ‘measure’.  
 
